@@ -1,6 +1,6 @@
 # netflix_clone
 
-A new Flutter project.
+A netflix clone made using Flutter, TMDB Api and Appwrite. Users can sign up and explore the vast world of movies, bookmark them and  make their own collection.
 
 ## Getting Started
 
